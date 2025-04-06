@@ -8,7 +8,7 @@ This is a tool for extracting subdomains from Google search results. It consists
 
 ## Installation
 
-### 1. Install Python Server
+### Install Python Server
 
 1. Ensure Python 3.x is installed
 2. Install required dependencies:
@@ -23,7 +23,7 @@ This is a tool for extracting subdomains from Google search results. It consists
    python subdomain_server.py
    ```
 
-### 2. Install Tampermonkey Script
+### Install Tampermonkey Script
 
 1. First install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
 2. Click on the Tampermonkey icon and select "Add New Script"
@@ -58,4 +58,4 @@ File Screenshot:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
