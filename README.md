@@ -12,10 +12,13 @@
 
 1. 确保你已安装 Python 3.x
 2. 安装所需依赖：
+
    ```bash
    pip install flask flask-cors colorama waitress
    ```
+
 3. 运行服务器：
+
    ```bash
    python subdomain_server.py
    ```
@@ -31,9 +34,11 @@
 
 1. 启动 Python 服务器（默认监听在 http://127.0.0.1:5123）
 2. 在 Google 中使用 site 语法搜索目标域名，例如：
+
    ```
    site:*.example.com
    ```
+
 3. 脚本会自动运行并在控制台中显示提取到的子域名
 4. 提取的子域名会自动保存到`collected_subdomains.txt`文件中
 
