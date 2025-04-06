@@ -8,7 +8,7 @@
 
 ## 安装说明
 
-### 1. 安装 Python 服务器
+### 安装 Python 服务器
 
 1. 确保你已安装 Python 3.x
 2. 安装所需依赖：
@@ -23,7 +23,7 @@
    python subdomain_server.py
    ```
 
-### 2. 安装油猴脚本
+### 安装油猴脚本
 
 1. 首先安装[Tampermonkey](https://www.tampermonkey.net/)浏览器扩展
 2. 点击 Tampermonkey 图标，选择「添加新脚本」
