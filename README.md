@@ -26,9 +26,15 @@
 ### 安装油猴脚本
 
 1. 首先安装[Tampermonkey](https://www.tampermonkey.net/)浏览器扩展
-2. 点击 Tampermonkey 图标，选择「添加新脚本」
-3. 将`tampermonkey.js`中的内容复制到编辑器中
-4. 保存脚本
+2. 从 GreasyFork 安装（推荐）：
+
+   - 访问[脚本安装页面](https://greasyfork.org/scripts/531972)，点击「安装」按钮
+
+   或者手动安装：
+
+   - 点击 Tampermonkey 图标，选择「添加新脚本」
+   - 将`tampermonkey.js`中的内容复制到编辑器中
+   - 保存脚本
 
 ## 使用方法
 

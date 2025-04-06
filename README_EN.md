@@ -26,9 +26,15 @@ This is a tool for extracting subdomains from Google search results. It consists
 ### Install Tampermonkey Script
 
 1. First install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
-2. Click on the Tampermonkey icon and select "Add New Script"
-3. Copy the contents of `tampermonkey.js` into the editor
-4. Save the script
+2. Install from GreasyFork (Recommended):
+
+   - Visit the [script installation page](https://greasyfork.org/scripts/531972) and click "Install"
+
+   Or install manually:
+
+   - Click on the Tampermonkey icon and select "Add New Script"
+   - Copy the contents of `tampermonkey.js` into the editor
+   - Save the script
 
 ## Usage
 

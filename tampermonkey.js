@@ -16,7 +16,7 @@
 
 /*
  * Google Search Subdomain Extractor
- * Copyright (C) 2024 特让他也让
+ * Copyright (C) 2025 特让他也让
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
