@@ -12,10 +12,13 @@ This is a tool for extracting subdomains from Google search results. It consists
 
 1. Ensure Python 3.x is installed
 2. Install required dependencies:
+
    ```bash
    pip install flask flask-cors colorama waitress
    ```
+
 3. Run the server:
+
    ```bash
    python subdomain_server.py
    ```
@@ -31,9 +34,11 @@ This is a tool for extracting subdomains from Google search results. It consists
 
 1. Start the Python server (default listening on http://127.0.0.1:5123)
 2. Use the site syntax in Google to search for target domains, for example:
+
    ```
    site:*.example.com
    ```
+
 3. The script will automatically run and display extracted subdomains in the console
 4. Extracted subdomains are automatically saved to `collected_subdomains.txt`
 
