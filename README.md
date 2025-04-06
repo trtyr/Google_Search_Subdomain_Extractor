@@ -1,0 +1,2 @@
+# Google_Search_Subdomain_Extractor
+ 被动爬取通过Google Search得到的子域名
